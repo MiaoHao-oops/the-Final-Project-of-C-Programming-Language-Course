@@ -1,0 +1,8 @@
+﻿  scoreop.c
+D:\Documents\CST\Programs\C_pro\GomokoZ\GomokoZ\scoreop.c(26,6): warning C4101: “j”: 未引用的局部变量
+  正在生成代码
+  4 of 31 functions (12.9%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  GomokoZ.vcxproj -> D:\Documents\CST\Programs\C_pro\GomokoZ\GomokoZ\Release\GomokoZ.exe

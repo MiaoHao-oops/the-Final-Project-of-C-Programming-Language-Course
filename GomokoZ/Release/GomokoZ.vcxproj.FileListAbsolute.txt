@@ -1,0 +1,3 @@
+D:\Documents\C pro\C\GomokoZ\Release\GomokoZ.exe
+G:\GomokoZ\GomokoZ\Release\GomokoZ.exe
+D:\Documents\CST\Programs\C_pro\GomokoZ\GomokoZ\Release\GomokoZ.exe

@@ -1,0 +1,7 @@
+[0107/085309.177:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
+[0108/005928.944:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
+[0108/164455.345:ERROR:directory_reader_win.cc(43)] FindFirstFile: 系统找不到指定的路径。 (0x3)
+[0108/175907.861:ERROR:process_info.cc(359)] UncheckedAllocate
+[0108/175929.434:ERROR:process_info.cc(359)] UncheckedAllocate
+[0108/175929.445:ERROR:process_info.cc(359)] UncheckedAllocate
+[0108/183606.203:ERROR:filesystem_win.cc(148)] DeleteFile C:\Users\haomi\AppData\Local\Google\Chrome\User Data\Crashpad\reports\2065fa84-69b3-4355-a1a2-f16d4178cfb3.dmp: 另一个程序正在使用此文件，进程无法访问。 (0x20)

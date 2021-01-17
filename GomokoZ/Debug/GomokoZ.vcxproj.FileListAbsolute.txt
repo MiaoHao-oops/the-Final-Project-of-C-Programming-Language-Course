@@ -1,0 +1,8 @@
+G:\CST\Cpro\GomokoZ\Debug\GomokoZ.exe
+G:\CST\Cpro\GomokoZ\Debug\GomokoZ.pdb
+D:\Documents\C pro\C\GomokoZ\Debug\GomokoZ.exe
+D:\Documents\C pro\C\GomokoZ\Debug\GomokoZ.pdb
+G:\GomokoZ\GomokoZ\Debug\GomokoZ.exe
+G:\GomokoZ\GomokoZ\Debug\GomokoZ.pdb
+D:\Documents\CST\Programs\C_pro\GomokoZ\GomokoZ\Debug\GomokoZ.exe
+D:\Documents\CST\Programs\C_pro\GomokoZ\GomokoZ\Debug\GomokoZ.pdb
